@@ -12,19 +12,19 @@ When you use FractalPane, we collect and share the following types of informatio
 - **Purpose:** For functionality to manage and restore your purchases.
 
 ### App Interactions
-- **Purpose:** For analytics to understand how you use FractalPane, and to improve the app's features.
+- **Purpose:** For analytics to understand how you use FractalPane, and to improve the App's features.
 
 ### User-Generated Content
-- **Purpose:** For functionality and analytics to improve user experience and app dynamics.
+- **Purpose:** For functionality and analytics to improve user experience and App dynamics.
 
 ### Crash Logs
-- **Purpose:** For analytics to diagnose and fix app issues effectively.
+- **Purpose:** For analytics to diagnose and fix issues in the App effectively.
 
 ### Diagnostics
-- **Purpose:** For analytics to monitor app performance.
+- **Purpose:** For analytics to monitor the App's performance.
 
 ### Performance Data
-- **Purpose:** For analytics to ensure the app runs smoothly and efficiently.
+- **Purpose:** For analytics to ensure the App runs smoothly and efficiently.
 
 ### Third-Party Services
 
@@ -34,14 +34,16 @@ Our app uses third-party services that may collect information used to identify 
 
 - **Expo**: FractalPane uses Expo for building and deployment purposes. Expo may collect certain data to enhance user experience and app performance. For details on what data Expo collects and how it is used, please review [Expo's Privacy Policy](https://expo.io/privacy).
 
+- **Sentry**: FractalPane uses Sentry to monitor app performance and record usage information, including error and crash data, to aid in the App's development. For details on what data Sentry collects and how it is used, please review [Sentry's Privacy Policy](https://sentry.io/privacy/).
+
 ### Log Data
 
-Please note that whenever you use our app, in case of an error or issue within the app, data and information (through third-party products) may be collected on your device called Log Data. This Log Data may include information such as your device’s IP address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Please note that whenever you use our app, in case of an error or issue within the App, data and information (through third-party products) may be collected on your device called Log Data. This Log Data may include information such as your device’s IP address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
 ## How We Use Information
 
-- **To Provide and Improve Our Services:** We use the collected data to maintain and expand the app’s functionality.
-- **Analytics and Performance:** We analyze the data to understand app usage and improve the app's features.
+- **To Provide and Improve Our Services:** We use the collected data to maintain and expand the App’s functionality.
+- **Analytics and Performance:** We analyze the data to understand app usage and improve the App's features.
 - **Customer Support:** We may use your information to provide support and respond to inquiries.
 
 ## Data Sharing and Security
@@ -78,14 +80,14 @@ By using our app, you hereby consent to our Privacy Policy.
 
 ## No Rights of Third Parties
 
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal data relating to users of the app.
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal data relating to users of the App.
 
 Thank you for using FractalPane!
 
 ---
 
-By using FractalPane, you signify your acceptance of this Privacy Policy. If you do not agree to this policy, please do not use our app. Your continued use of the app following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using FractalPane, you signify your acceptance of this Privacy Policy. If you do not agree to this policy, please do not use our app. Your continued use of the App following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ---
 
-*Effective Date: 7/2/2024*
+*Effective Date: 7/23/2024*
